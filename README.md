@@ -1,3 +1,1 @@
-# Dicoding-MLP
-
-Submission akhir materi Machine Learning untuk Pemula
+# Submission akhir materi Machine Learning untuk Pemula - Dicoding
